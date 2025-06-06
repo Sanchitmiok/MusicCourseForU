@@ -10,7 +10,8 @@ export function BackgroundBeamsDemo() {
         <Typewriter_Effect />
         <p></p>
         <p className="text-neutral-500 max-w-lg mx-auto my-2 text-sm text-center relative z-10">
-        If you have a question, need support, or simply want to share feedback, we're eager to hear from you. Please provide your email address below, and our team will get back to you promptly.        </p>
+          If you have a question, need support, or simply want to share feedback, we&apos;re eager to hear from you. Please provide your email address below, and our team will get back to you promptly.
+        </p>
         <input
           type="text"
           placeholder="hi@manuarora.in"
